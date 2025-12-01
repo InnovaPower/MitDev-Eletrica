@@ -12,7 +12,7 @@ Currently, the repository has three datasets of generators operating under short
 
 - [**PMSG-3phase-Dataset**](https://github.com/InnovaPower/MitDev-Eletrica/tree/master/PMSG-3phase-Dataset): Rafael Noboro Tominaga, et al., A benchmark dataset of electrical signals from a permanent magnet synchronous generator for condition monitoring, Data in Brief. 62 (2025) 112040. https://doi.org/10.1016/j.dib.2025.112040.
 
-- [**SCIG-3phase-Dataset**](https://github.com/InnovaPower/MitDev-Eletrica/tree/master/SCIG-3phase-Dataset): Rafael Noboro Tominaga, et al., A condition monitoring dataset based on electrical signals for a squirrel cage induction generator, Data in Brief. In Review.
+- [**SCIG-3phase-Dataset**](https://github.com/InnovaPower/MitDev-Eletrica/tree/master/SCIG-3phase-Dataset): Rafael Noboro Tominaga, et al., A condition monitoring dataset based on electrical signals for a squirrel cage induction generator, Data in Brief. 63 (2025) 112286. https://doi.org/10.1016/j.dib.2025.112286.
 
 The short-circuits in the generators were performed in a controlled environment using experimental benches designed for this purpose.
 
